@@ -1,4 +1,4 @@
-# DualShock PyCharger
+# DualShock 3 PyCharger
 Raspberry Pi Pico charging board for DualShock 3 with any USB power device
 
 Вдохновлено
