@@ -19,6 +19,10 @@ https://circuitpython.org/board/waveshare_rp2040_zero/
 3. Библиотеку neopixel.mpy (и её зависимость adafruit_pixelbuf, если используется отдельно) копируем в папку lib на диск CIRCUITPY из Adafruit CircuitPython Library Bundle, версию под вашу прошивку CircuitPython.
 https://circuitpython.org/libraries
 
+# Пример изделия
+
+![Пример изделия](sample.jpg)
+
 # Примечание
 
 + Оранжевый - режим ожидания
