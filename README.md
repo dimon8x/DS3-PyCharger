@@ -18,8 +18,7 @@ https://circuitpython.org/board/waveshare_rp2040_zero/
 Получим съемный диск CIRCUITPY.
 
 2. Скопировать boot.py и code.py в корень CIRCUITPY
-Библиотеку neopixel.mpy (и её зависимость adafruit_pixelbuf, если используется отдельно) копируем в папку lib на диск CIRCUITPY
-из Adafruit CircuitPython Library Bundle, версию под вашу прошивку CircuitPython.
+3. Библиотеку neopixel.mpy (и её зависимость adafruit_pixelbuf, если используется отдельно) копируем в папку lib на диск CIRCUITPY из Adafruit CircuitPython Library Bundle, версию под вашу прошивку CircuitPython.
 https://circuitpython.org/libraries
 
 # Примечание
