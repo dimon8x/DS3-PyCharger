@@ -5,9 +5,9 @@ Raspberry Pi Pico charging board for DualShock 3 with any USB power device
 https://github.com/radu-gs/DS3PicoCharger
 
 
-Как создать
+# Как создать
 
-Прошить CircuitPython на Pi Pico, RP 2040 Zero или подобную.
+1. Прошить CircuitPython на Pi Pico, RP 2040 Zero или подобную.
 
 Pico by Raspberry Pi
 https://circuitpython.org/board/raspberry_pi_pico/
@@ -17,16 +17,16 @@ https://circuitpython.org/board/waveshare_rp2040_zero/
 
 Получим съемный диск CIRCUITPY.
 
-Скопировать boot.py и code.py в корень CIRCUITPY
+2. Скопировать boot.py и code.py в корень CIRCUITPY
 Библиотеку neopixel.mpy (и её зависимость adafruit_pixelbuf, если используется отдельно) копируем в папку lib на диск CIRCUITPY
 из Adafruit CircuitPython Library Bundle, версию под вашу прошивку CircuitPython.
 https://circuitpython.org/libraries
 
-#Примечание
+# Примечание
 
-+Оранжевый - режим ожидания
-+Красный мигающий - идет зарядка
-+Синий мигающий - почти заряжен
-+Зеленый - полностью заряжен
++ Оранжевый - режим ожидания
++ Красный мигающий - идет зарядка
++ Синий мигающий - почти заряжен
++ Зеленый - полностью заряжен
 
 GPIO пины можно выбрать другие, изменив их в коде.
