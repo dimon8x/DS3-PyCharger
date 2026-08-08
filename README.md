@@ -1,5 +1,5 @@
 # DS3-PyCharger
-Raspberry Pi Pico charging board for DualShock 3
+Raspberry Pi Pico charging board for DualShock 3 with any USB power device
 
 Вдохновлено
 https://github.com/radu-gs/DS3PicoCharger
@@ -22,11 +22,11 @@ https://circuitpython.org/board/waveshare_rp2040_zero/
 из Adafruit CircuitPython Library Bundle, версию под вашу прошивку CircuitPython.
 https://circuitpython.org/libraries
 
-Примечание
+#Примечание
 
-Оранжевый - режим ожидания
-Красный мигающий - идет зарядка
-Синий мигающий - почти заряжен
-Зеленый - полностью заряжен
++Оранжевый - режим ожидания
++Красный мигающий - идет зарядка
++Синий мигающий - почти заряжен
++Зеленый - полностью заряжен
 
 GPIO пины можно выбрать другие, изменив их в коде.
